@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Nice to meet you.   
-I am currently final year B.tech student in Computer Engineering.
+I am software engineer with 1.5+ year of experience. I love to watch Anime and listen to music in my free time.
+
+
+__________________________________________________________________________________________________________
+
+<h3 align="left">Now Playing:</h3>
+
+[![Spotify](https://novatorem-eta-two.vercel.app/api/spotify)](https://open.spotify.com/user/3gfdzeykdrwdgut29m9g68wpr)
