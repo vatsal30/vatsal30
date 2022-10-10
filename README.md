@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Tomodachi 👋
 
 <!--
 **vatsal30/vatsal30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
