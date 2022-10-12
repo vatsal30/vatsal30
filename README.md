@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/vatsal30/vatsal30/raw/main/assets/github.gif" alt="Hi, I'm Vatsal 👋 ">
+</p>
+
 ### Hello Tomodachi 👋
 
 <!--
