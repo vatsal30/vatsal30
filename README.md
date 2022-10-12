@@ -26,4 +26,4 @@ ________________________________________________________________________________
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://novatorem-eta-two.vercel.app/api/spotify)](https://open.spotify.com/user/3gfdzeykdrwdgut29m9g68wpr)
+[![Spotify](https://novatorem-eta-two.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/3gfdzeykdrwdgut29m9g68wpr)
