@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Nice to meet you.   
-I am software engineer with 1.5+ year of experience. I love to watch Anime and listen to music in my free time.
+I am experienced Software Engineer with 3+ years in full-stack development. I love to watch Anime and listen to music in my free time.
 
 
 __________________________________________________________________________________________________________
